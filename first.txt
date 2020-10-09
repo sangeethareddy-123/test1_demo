@@ -1,1 +1,8 @@
 text editor
+editing a new file
+
+
+
+
+
+end of the program
