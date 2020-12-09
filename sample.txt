@@ -2,7 +2,3 @@ helloworld
 hiii
 
 
-hii world
-byeee
-
-hello st.johns
